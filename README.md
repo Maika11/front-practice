@@ -1,3 +1,3 @@
-# progate_practice
-フロントのリハビリ　その１
-Progate中級編
+# フロントのリハビリ
+
+https://maika11.github.io/progate_practice/html/shrinelog.html
